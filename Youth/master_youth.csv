@@ -1,0 +1,21 @@
+Position,Team Name,CP01,CP02,CP03,CP04,CP05,CP06,CP07,CP08,CP09,CP10,CP11,CP12,CP13,CP14,CP15,FinishTime,IsComplete,Total Time,Total Score
+1,TEST 001,50,0,50,50,30,30,0,abs,abs,abs,abs,abs,abs,abs,abs,abs,False,,0
+2,TEST 002,abs,abs,50,50,abs,abs,abs,0,10,abs,abs,10,0,0,10.0,abs,False,,0
+3,YTH 001,50,50,abs,50,30,30,abs,10,abs,10,10,abs,abs,abs,abs,2023-02-12 15:57:16,False,02:08:07,240
+4,YTH 002,50,abs,abs,abs,abs,abs,abs,abs,abs,10,abs,abs,10,abs,abs,2023-02-12 15:55:47,False,02:06:38,70
+5,YTH 003,abs,50,abs,50,abs,30,abs,10,abs,abs,10,abs,abs,abs,abs,2023-02-12 15:56:38,False,02:07:29,150
+6,YTH 005,abs,abs,abs,abs,abs,30,abs,10,abs,0,10,abs,abs,abs,abs,2023-02-12 15:48:35,True,01:59:26,50
+7,YTH 006,abs,abs,abs,abs,abs,30,abs,10,abs,10,10,abs,abs,abs,abs,2023-02-12 15:48:36,True,01:59:27,60
+8,YTH 007S,abs,abs,abs,abs,30,30,abs,10,abs,10,10,abs,abs,abs,abs,2023-02-12 15:26:14,True,01:37:05,90
+9,YTH 008S,50,abs,abs,abs,abs,abs,abs,abs,abs,10,abs,10,10,0,10.0,2023-02-12 15:50:05,False,02:00:56,90
+10,YTH 009S,abs,abs,50,50,30,30,abs,10,abs,0,10,abs,abs,abs,abs,2023-02-12 15:45:40,True,01:56:31,180
+11,YTH 010S,abs,abs,50,50,30,30,abs,abs,abs,abs,abs,abs,abs,abs,abs,2023-02-12 15:45:44,True,01:56:35,160
+12,YTH 012S,abs,abs,abs,abs,abs,abs,abs,abs,abs,abs,abs,10,10,10,10.0,2023-02-12 16:11:51,False,02:22:42,40
+13,YTH 013S,abs,50,abs,50,abs,30,abs,10,abs,abs,10,abs,abs,abs,abs,2023-02-12 15:52:39,False,02:03:30,150
+14,YTH 014S,50,abs,abs,abs,30,30,abs,10,abs,10,10,10,10,abs,10.0,2023-02-12 15:52:00,False,02:02:51,170
+15,YTH 015S,50,50,abs,50,30,30,abs,10,abs,10,10,10,10,abs,0.0,2023-02-12 15:48:37,True,01:59:28,260
+16,YTH 016S,50,abs,50,50,abs,30,abs,0,abs,abs,abs,abs,abs,abs,abs,2023-02-12 15:50:13,False,02:01:04,180
+17,YTH 017S,abs,50,50,50,30,30,10,0,10,abs,abs,abs,abs,abs,abs,2023-02-12 16:24:44,False,02:35:35,230
+18,YTH 018S,50,abs,abs,50,abs,abs,abs,abs,abs,abs,abs,10,0,abs,abs,2023-02-12 15:59:22,False,02:10:13,110
+19,YTH 019S,abs,abs,abs,abs,30,30,abs,10,10,10,10,10,abs,10,10.0,2023-02-12 15:42:16,True,01:53:07,130
+20,YTH 022,50,50,abs,50,30,30,abs,10,abs,0,10,0,10,10,10.0,2023-02-12 15:49:58,False,02:00:49,260

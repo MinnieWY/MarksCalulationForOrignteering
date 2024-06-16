@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Youth Group Results</title>
+    <link rel="icon" href="../static/img/logo.png">
+    <link rel="stylesheet" href="../static/styles.css">
+</head>
+<body>
+    <header class="row">
+            <div style="width: 20%;float: left;">
+                <img src="../static/img/logo.png" style=" width: 70px;height: auto;">
+            </div>
+            <div style="float: left;width: 60%;text-align: center;">
+                <h4>「足跡下的油尖旺」城市定向活動</h4>
+                <h4>“Footprints in Yau Tsim Mong” City Orienteering</h4>
+                <h6>挑戰組（校際盃） 比賽結果</h6>
+                <h6>Challenge Group (Inter-School Cup) Results</h6>
+            </div>
+            <div style="width: 20%;text-align:right;float: left;">
+                <p style="font-size: 10px;">Last Modified: {{ date }}</p>
+            </div>
+    </header>
+    <main>
+        <table cellspacing="2" cellpadding="2">
+            <tr>
+                <th>Position</th>
+                <th>Team Name</th>
+                <th>Total Time</th>
+                <th>Total Score</th>
+                <th>Is Complete</th>
+            </tr>
+            {% for row in row_data %}
+            <tr>
+                {% for col, row_ in zip(column_names, row) %}
+                <td>{{row_}}</td>
+                {% endfor %}
+            </tr>
+            {% endfor %}
+        </table>
+    </main>
+</body>
+</html>

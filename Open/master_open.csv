@@ -1,0 +1,20 @@
+Position,Team Name,CP01,CP02,CP03,CP04,CP05,CP06,CP07,CP08,CP09,CP10,CP11,CP12,CP13,CP14,CP15,FinishTime,IsComplete,Total Time,Total Score
+2,OPN 001,50,50,50,50,30,30,10,abs,abs,0,10,10,abs,10,10.0,2023-02-12 15:26:40,True,01:55:53,310
+10,OPN 002,abs,50,50,abs,abs,abs,abs,abs,abs,10,abs,abs,10,10,abs,2023-02-12 15:21:48,False,01:51:01,130
+9,OPN 003,abs,abs,50,50,abs,30,10,abs,abs,abs,abs,abs,10,abs,abs,2023-02-12 15:28:44,True,01:57:57,150
+4,OPN 004,50,50,50,50,30,30,0,abs,abs,abs,abs,abs,abs,abs,10.0,2023-02-12 15:21:49,True,01:51:02,270
+7,OPN 005,50,50,50,abs,30,abs,abs,abs,abs,10,0,10,10,10,10.0,2023-02-12 15:13:44,True,01:42:57,230
+12,OPN 008,abs,0,abs,abs,abs,abs,abs,0,10,abs,abs,abs,10,abs,abs,2023-02-12 15:18:09,False,01:47:22,20
+5,OPN 010,50,50,50,abs,30,30,abs,abs,abs,10,10,10,10,10,10.0,2023-02-12 15:30:42,True,01:59:55,270
+3,OPN 012,50,50,50,abs,30,30,abs,10,10,10,10,10,10,10,10.0,2023-02-12 15:08:48,True,01:38:01,290
+1,OPN 014,50,50,50,50,30,30,10,0,10,10,10,10,10,10,abs,2023-02-12 15:29:40,True,01:58:53,330
+6,OPN 015,abs,50,50,50,30,abs,10,10,10,10,abs,abs,10,10,abs,2023-02-12 15:22:12,True,01:51:25,240
+13,OPN 016,abs,50,50,abs,30,abs,abs,10,10,0,0,10,10,10,abs,abs,False,,0
+11,OPN 017,abs,0,50,50,abs,abs,10,abs,abs,abs,abs,abs,10,abs,abs,2023-02-12 15:15:19,False,01:44:32,120
+14,OPN 018,abs,abs,abs,abs,30,abs,abs,abs,abs,0,abs,abs,10,10,abs,abs,False,,0
+15,OPN 019,abs,abs,abs,abs,30,abs,abs,abs,abs,10,abs,abs,10,10,abs,abs,False,,0
+8,OPN 020,abs,50,50,abs,30,30,abs,abs,abs,10,0,10,10,10,abs,2023-02-12 15:26:56,True,01:56:09,200
+16,TEST 001,abs,abs,abs,abs,abs,abs,abs,10,10,0,10,10,0,abs,abs,abs,False,,0
+17,TEST 002,0,50,0,0,30,30,10,abs,abs,abs,abs,abs,abs,abs,abs,abs,False,,0
+18,YTH 005,abs,abs,abs,abs,abs,abs,abs,abs,abs,10,abs,abs,abs,abs,abs,abs,False,,0
+19,YTH 018S,abs,abs,abs,abs,abs,abs,abs,abs,abs,abs,abs,abs,10,abs,abs,abs,False,,0
